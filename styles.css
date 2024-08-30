@@ -162,6 +162,9 @@ body{
 }
 
 #toggle-button{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
     padding: 10px 80px;
     background-color: #E3E6F3;
 }
