@@ -85,7 +85,7 @@ body{
 }
 @media(max-width: 799px){
     .logo{
-        max-width: 100px;
+        max-width: 50px;
     }
 }
 
