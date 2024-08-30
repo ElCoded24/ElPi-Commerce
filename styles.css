@@ -85,7 +85,7 @@ body{
 }
 @media(max-width: 799px){
     .logo{
-        max-width: 50px;
+        max-width: 100px;
     }
 }
 
@@ -93,11 +93,6 @@ body{
     font-family: Arial Black;
     font-size: 30px;
     color: rgb(11, 1, 54);
-}
-@media(max-width: 799px){
-    .business-name{
-        font-size: 20px;
-    }
 }
 
 /* HEADER START */
